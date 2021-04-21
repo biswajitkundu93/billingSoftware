@@ -1,0 +1,35 @@
+--------------------------------------
+	   Welcome Reatil shop
+--------------------------------------
+
+ Bill No. : Q-H2-2484
+ Customar Name : sam
+ Phone Nn. : 6895741230
+======================================
+Products		Quantity	    price 
+======================================
+Bath Shop		012	    480.0 
+Face Cream		023	    2760.0 
+Face Wash		065	    3900.0 
+Hair Spray		076	    13680.0 
+Hair Gell		043	    6450.0 
+Body Loshan		056	    10080.0 
+Rice		03443	    275440.0 
+Food Oil		054	    9720.0 
+Daal		024	    1440.0 
+Wheat		05	    8400.0 
+Sugar		056	    5100.0 
+Tea		034	    1200.0 
+Maza		04	    240.0 
+Cock		04	    240.0 
+Frooti		065	    3250.0 
+Thumbs up		065	    2925.0 
+Limca		0565	    22600.0 
+Sprite		067	    4020.0 
+--------------------------------------
+Cosmetic Tax			 Rs. 1867.5 
+Grocery Tax			 Rs. 30130.0 
+Cold Drinks Tax			 Rs. 1663.75 
+--------------------------------------
+Total Amount			 Rs. 405586.25 
+

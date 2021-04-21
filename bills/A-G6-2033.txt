@@ -1,0 +1,35 @@
+--------------------------------------
+	   Welcome Reatil shop
+--------------------------------------
+
+ Bill No. : A-G6-2033
+ Customar Name : rabi
+ Phone Nn. : 6883749230
+======================================
+Products		Quantity	    price 
+======================================
+Bath Shop		01	    40.0 
+Face Cream		02	    240.0 
+Face Wash		06	    360.0 
+Hair Spray		07	    1260.0 
+Hair Gell		04	    600.0 
+Body Loshan		05	    900.0 
+Rice		03	    240.0 
+Food Oil		05	    900.0 
+Daal		02	    120.0 
+Wheat		05	    750.0 
+Sugar		05	    450.0 
+Tea		03	    1200.0 
+Maza		04	    240.0 
+Cock		04	    240.0 
+Frooti		06	    300.0 
+Thumbs up		06	    270.0 
+Limca		05	    200.0 
+Sprite		06	    360.0 
+--------------------------------------
+Cosmetic Tax			 Rs. 170.0 
+Grocery Tax			 Rs. 366.0 
+Cold Drinks Tax			 Rs. 80.5 
+--------------------------------------
+Total Amount			 Rs. 9286.5 
+

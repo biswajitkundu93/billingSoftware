@@ -1,0 +1,27 @@
+--------------------------------------
+	   Welcome Reatil shop
+--------------------------------------
+
+ Bill No. : B-H8-6327
+ Customar Name : priya saha
+ Phone Nn. : 9876543210
+======================================
+Products		Quantity	    price 
+======================================
+Bath Shop		01	    40.0 
+Face Cream		05	    600.0 
+Face Wash		01	    60.0 
+Rice		08	    640.0 
+Daal		05	    300.0 
+Wheat		05	    0.0 
+Tea		05	    1200.0 
+Maza		09	    540.0 
+Frooti		05	    250.0 
+Limca		086	    3440.0 
+--------------------------------------
+Cosmetic Tax			 Rs. 35.0 
+Grocery Tax			 Rs. 289.0 
+Cold Drinks Tax			 Rs. 211.5 
+--------------------------------------
+Total Amount			 Rs. 8355.5 
+

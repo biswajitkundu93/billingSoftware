@@ -1,0 +1,35 @@
+--------------------------------------
+	   Welcome Reatil shop
+--------------------------------------
+
+ Bill No. : F-K3-5007
+ Customar Name : ram
+ Phone Nn. : 9865742103
+======================================
+Products		Quantity	    price 
+======================================
+Bath Shop		042	    1680.0 
+Face Cream		0682	    81840.0 
+Face Wash		0685	    41100.0 
+Hair Spray		069	    12420.0 
+Hair Gell		05	    750.0 
+Body Loshan		0235	    42300.0 
+Rice		041	    3280.0 
+Food Oil		0552	    99360.0 
+Daal		056	    3360.0 
+Wheat		058	    14850.0 
+Sugar		099	    96750.0 
+Tea		0645	    13920.0 
+Maza		05	    300.0 
+Cock		082	    4920.0 
+Frooti		068	    3400.0 
+Thumbs up		093	    4185.0 
+Limca		092	    3680.0 
+Sprite		053	    3180.0 
+--------------------------------------
+Cosmetic Tax			 Rs. 9004.5 
+Grocery Tax			 Rs. 23152.0 
+Cold Drinks Tax			 Rs. 983.25 
+--------------------------------------
+Total Amount			 Rs. 464414.75 
+
